@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# QuiniCrypo version 1.1, Base64
+# QuiniCrypo version 1.1, Ceasar
 # Filename: QuiniCrypoRot.py
 # Author: Quinine
 
