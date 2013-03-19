@@ -2,6 +2,21 @@
 # QuiniCrypo version 1.1, Base64
 # Filename: QuiniCrypoBase64.py
 # Author: Quinine
+# Distributed under the GNU GENERAL PUBLIC LICENSE
+#	 This file is part of QuiniCrypo.
+#
+#    QuiniCrypo is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    QuiniCrypo is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with QuiniCrypo.  If not, see <http://www.gnu.org/licenses/>.
 version = '0.3'
 import base64
 import re

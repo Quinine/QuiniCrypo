@@ -2,6 +2,8 @@
 # QuiniCrypo version 1.1, Demo
 # Filename: RotCipher.py
 # Author: Quinine
+# Copyright 2013 Quinine
+# Distributed under the GNU GENERAL PUBLIC LICENSE Version 2
 import QuiniCrypoRot
 
 def dechipher_demo(ciphertext):
