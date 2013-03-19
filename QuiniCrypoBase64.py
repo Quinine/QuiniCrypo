@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # QuiniCrypo version 1.1, Base64
 # Filename: QuiniCrypoBase64.py
-# Author: Kinine
+# Author: Quinine
 version = '0.3'
 import base64
 import re
